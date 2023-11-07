@@ -1,0 +1,37 @@
+[
+    {
+      "id": "salads-1",
+      "name": "Caesar Salad",
+      "description": "Fresh romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+      "ingredients": ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+      "price": 10.99
+    },
+    {
+      "id": "salads-2",
+      "name": "Greek Salad",
+      "description": "Crisp cucumbers, tomatoes, red onions, Kalamata olives, feta cheese, and Greek dressing.",
+      "ingredients": ["Cucumbers", "Tomatoes", "Red Onions", "Kalamata Olives", "Feta Cheese", "Greek Dressing"],
+      "price": 12.49
+    },
+    {
+      "id": "salads-3",
+      "name": "Spinach and Strawberry Salad",
+      "description": "Fresh spinach, sliced strawberries, almonds, and balsamic vinaigrette.",
+      "ingredients": ["Fresh Spinach", "Strawberries", "Almonds", "Balsamic Vinaigrette"],
+      "price": 11.99
+    },
+    {
+      "id": "salads-4",
+      "name": "Cobb Salad",
+      "description": "Mixed greens, grilled chicken, bacon, hard-boiled eggs, tomatoes, and blue cheese dressing.",
+      "ingredients": ["Mixed Greens", "Grilled Chicken", "Bacon", "Hard-Boiled Eggs", "Tomatoes", "Blue Cheese Dressing"],
+      "price": 14.99
+    },
+    {
+      "id": "salads-6",
+      "name": "Caprese Salad",
+      "description": "Sliced tomatoes, fresh mozzarella, basil leaves, drizzled with balsamic glaze.",
+      "ingredients": ["Tomatoes", "Fresh Mozzarella", "Basil Leaves", "Balsamic Glaze"],
+      "price": 9.49
+    }
+  ]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "appetizers-1",
+    "name": "Tomato Basil Bruschetta",
+    "description": "Toasted baguette slices topped with fresh tomatoes, basil, garlic, and olive oil.",
+    "ingredients": ["Baguette", "Tomatoes", "Basil", "Garlic", "Olive Oil"],
+    "price": 9.99
+  },
+  {
+    "id": "appetizers-3",
+    "name": "Spinach and Artichoke Dip",
+    "description": "Creamy dip made with spinach, artichokes, and a blend of cheeses, served with tortilla chips.",
+    "ingredients": [
+      "Spinach",
+      "Artichokes",
+      "Cream Cheese",
+      "Mozzarella",
+      "Tortilla Chips"
+    ],
+    "price": 8.99
+  },
+  {
+    "id": "appetizers-3",
+    "name": "Chicken Satay Skewers",
+    "description": "Grilled chicken skewers marinated in a peanut sauce, served with a side of cucumber salad.",
+    "ingredients": ["Chicken", "Peanut Sauce", "Cucumber", "Soy Sauce"],
+    "price": 11.99
+  },
+  {
+    "id": "appetizers-4",
+    "name": "Mozzarella Sticks",
+    "description": "Breaded mozzarella cheese sticks served with marinara sauce for dipping.",
+    "ingredients": ["Mozzarella Cheese", "Breadcrumbs", "Marinara Sauce"],
+    "price": 7.49
+  },
+  {
+    "id": "appetizers-5",
+    "name": "Shrimp Cocktail",
+    "description": "Chilled shrimp served with a tangy cocktail sauce and lemon wedges.",
+    "ingredients": ["Shrimp", "Cocktail Sauce", "Lemon"],
+    "price": 12.99
+  }
+]
