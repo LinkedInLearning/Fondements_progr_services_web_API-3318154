@@ -7,7 +7,6 @@ const Postschema = mongoose.Schema({
     type: Date,
     default: Date.now,
   },
-  completed: { type: Boolean, default: false },
 });
 
 module.exports = mongoose.model("Post", Postschema);

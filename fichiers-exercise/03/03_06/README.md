@@ -1,15 +1,24 @@
-
 ## REST API
-project that is part of the course - Building AI products with OpenAI, to build an LLM app that summarizes a podcast episode, identifies podcast guests, identifies key highlights and more!
 
-- **express**: Node.js framework to create and run a Node server
+- **[express](https://expressjs.com/)**: Node.js framework to create and run a Node server
+- **mongodb**: MongoDB driver for Node.js
+- **[mongoose](https://mongoosejs.com/docs/index.html)**: MongoDB object modeling tool
 - **nodemon**: tool to restart the server automatically on file changes
 
+les outils
+
+- **(postman)[https://www.postman.com/]** : to test the API
+- **curl** : to test the API
+- **[MongoDB Atlas](https://cloud.mongodb.com/v2/64b917401dc5d758befbbec6#/clusters)** : to check the database
 
 ## Installation :
+
 `npm install`
 
+`npm install mongodb`
+
 ## Start the project :
+
 `npm start`
 
 ## Test the project :
