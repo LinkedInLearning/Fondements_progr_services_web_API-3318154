@@ -48,8 +48,7 @@ module.exports = {
   loginRequired(req, res, next) {
     // compléter le code ici
     if (!req.user) {
-      console.log("login required");
-      return
+      return res.json({ message: "Unauthorized user!" });
     }
     next();
   }
