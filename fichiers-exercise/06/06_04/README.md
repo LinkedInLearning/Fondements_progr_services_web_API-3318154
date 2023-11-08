@@ -12,13 +12,7 @@
 
 `npm install`
 
-### MongoDB Node.js Driver [lien](https://www.npmjs.com/package/mongodb)
-
-`npm i mongodb`
-
-### Mongoose [lien](https://mongoosejs.com/)
-
-`npm install mongoose --save`
+`npm install jsonwebtoken bcrypt`
 
 ## Lancer le projet :
 
