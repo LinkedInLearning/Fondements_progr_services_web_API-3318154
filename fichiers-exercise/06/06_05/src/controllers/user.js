@@ -44,12 +44,5 @@ module.exports = {
     } catch (e) {
       res.json(e);
     }
-  }, 
-  loginRequired(req, res, next) {
-    // compléter le code ici
-    if (!req.user) {
-      return res.json({ message: "Unauthorized user!" });
-    }
-    next();
   }
 };
