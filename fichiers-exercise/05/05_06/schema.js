@@ -53,7 +53,7 @@ const RootQuery = new GraphQLObjectType({
       resolve(parent, args) {
         return Book.find({ isbn: args.isbn });
       },
-    },
+    }
   },
 });
 
