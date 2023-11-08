@@ -34,6 +34,30 @@ app.post("/posts/create", async (req, res) => {
         res.send({ error: "Internal server error!" });
     }
 })
+
+app.put("/posts/:id", async (req, res) => { 
+  try {
+
+    const post = await Post.findOneAndUpdate({ _id: req.params.id}, req.body);
+    await post.save();
+    res.send("Post updated!");
+  } catch (e) {
+    res.status(500);
+    res.send({ error: "Internal server error!" + e});
+  }
+})
+
+app.delete("/posts/:id", async (req, res) => { 
+  try {
+    await Post.findOneAndDelete({ _id: req.params.id});
+    res.send("Post deleted!");
+  } catch (e) {
+    res.status(500);
+    res.send({ error: "Internal server error!" + e});
+  }
+
+})
+
 app.listen(PORT, () => {
   console.log(`Server has started on port ${PORT}`);
   mongoose
