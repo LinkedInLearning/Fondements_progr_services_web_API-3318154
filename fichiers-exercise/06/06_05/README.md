@@ -47,6 +47,19 @@ curl -X POST \
   }'
 ```
 
+### Send a GET request : get all posts
+
+`curl http://localhost:5000/posts`
+
+### Send a POST request : create a new post
+
+```
+curl -X POST \
+  http://localhost:5000/posts/create \
+  -H 'Content-Type: application/json' \
+  -d '{  "title": "new post", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus lacus in lorem interdum, at mollis sem consequat. Vestibulum tempus fermentum justo, id molestie risus rhoncus ac. Phasellus augue purus, finibus non posuere molestie, laoreet at metus. Nam posuere non tellus nec laoreet. Etiam eu blandit lacus." }'
+```
+
 ## Documentation API:
 
 [Documentation sur Postman](https://documenter.getpostman.com/view/19676848/2s9YR84CzK)
