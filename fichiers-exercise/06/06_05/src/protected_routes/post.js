@@ -5,6 +5,8 @@ const {
   findOnePostAndDelete,
 } = require("../controllers/post");
 
+const { loginRequired} = require("../controllers/user");
+
 
 module.exports = (router) => {
   router.post("/posts/create", createPost);

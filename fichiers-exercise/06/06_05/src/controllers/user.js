@@ -49,6 +49,7 @@ module.exports = {
     // compléter le code ici
     if (!req.user) {
       console.log("login required");
+      return
     }
     next();
   }

@@ -57,7 +57,7 @@ curl -X POST \
 curl -X POST \
   http://localhost:5000/posts/create \
   -H 'Content-Type: application/json' \
-  -d '{  "title": "new post", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus lacus in lorem interdum, at mollis sem consequat. Vestibulum tempus fermentum justo, id molestie risus rhoncus ac. Phasellus augue purus, finibus non posuere molestie, laoreet at metus. Nam posuere non tellus nec laoreet. Etiam eu blandit lacus." }'
+  -d '{  "title": "new post", author: "Claire Dubois", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus lacus in lorem interdum, at mollis sem consequat. Vestibulum tempus fermentum justo, id molestie risus rhoncus ac. Phasellus augue purus, finibus non posuere molestie, laoreet at metus. Nam posuere non tellus nec laoreet. Etiam eu blandit lacus." }'
 ```
 
 ## Documentation API:
