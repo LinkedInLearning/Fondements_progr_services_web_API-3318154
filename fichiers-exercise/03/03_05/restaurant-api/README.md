@@ -1,21 +1,15 @@
+
 ## Restaurant API
 
 - **express**: Node.js framework to create and run a Node server
 - **nodemon**: tool to restart the server automatically on file changes
 - **mongoose**: MongoDB object modeling tool
 
-les outils
-
-- **(postman)[https://www.postman.com/]** : to test the API
-- **curl** : to test the API
-- **[MongoDB Compass](https://www.mongodb.com/products/tools/compass)** : to check the database
 
 ## Installation :
-
 `npm install`
 
 ## Start the project :
-
 `npm start`
 
 ## Test the project :

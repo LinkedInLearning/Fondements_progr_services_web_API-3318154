@@ -1,0 +1,37 @@
+[
+    {
+      "id": "drinks-1",
+      "name": "Classic Margarita",
+      "description": "A classic margarita made with tequila, lime juice, and triple sec, served with a salted rim.",
+      "ingredients": ["Tequila", "Lime Juice", "Triple Sec", "Salt"],
+      "price": 7.99
+    },
+    {
+      "id": "drinks-2",
+      "name": "Strawberry Smoothie",
+      "description": "A refreshing strawberry smoothie made with fresh strawberries, yogurt, and honey.",
+      "ingredients": ["Strawberries", "Yogurt", "Honey"],
+      "price": 6.49
+    },
+    {
+      "id": "drinks-3",
+      "name": "Iced Coffee",
+      "description": "Chilled coffee with milk and a hint of vanilla syrup, served over ice.",
+      "ingredients": ["Coffee", "Milk", "Vanilla Syrup", "Ice"],
+      "price": 4.99
+    },
+    {
+      "id": "drinks-4",
+      "name": "Mint Mojito",
+      "description": "A refreshing mint mojito made with white rum, fresh mint leaves, lime juice, and soda water.",
+      "ingredients": ["White Rum", "Mint Leaves", "Lime Juice", "Soda Water"],
+      "price": 8.49
+    },
+    {
+      "id": "drinks-5",
+      "name": "Orange Juice",
+      "description": "Freshly squeezed orange juice served in a chilled glass.",
+      "ingredients": ["Fresh Oranges"],
+      "price": 4.49
+    }
+  ]
