@@ -44,5 +44,11 @@ module.exports = {
     } catch (e) {
       res.json(e);
     }
+  }, 
+  loginRequired(req, res, next) {
+    if (!req.user) {
+      return console.log("login required");
+    }
+    next();
   }
-};
+  };
