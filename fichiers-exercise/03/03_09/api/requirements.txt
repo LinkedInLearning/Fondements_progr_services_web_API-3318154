@@ -1,0 +1,12 @@
+
+fastapi==0.101.1
+feedparser==6.0.10
+pydub==0.25.1
+requests==2.31.0
+tqdm==4.66.1
+typing_extensions==4.7.1
+uvicorn==0.23.2
+whisper==1.1.10
+fastapi[all]
+pymongo==4.6.0
+pymongo

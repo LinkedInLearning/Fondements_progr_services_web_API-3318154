@@ -1,0 +1,47 @@
+[
+  {
+      "title": "Lumière des Étoiles",
+      "author": "Claire Dubois",
+      "description": "Un voyage épique à travers les galaxies.",
+      "isbn": "978-1234567890",
+      "language": "fr",
+      "category": "Science",
+      "available": true
+  },
+  {
+      "title": "Le Chant du Vent",
+      "author": "Lucas Durand",
+      "description": "La beauté de la nature et la force de l'esprit humain.",
+      "isbn": "978-0987654321",
+      "language": "fr",
+      "category": "Fiction",
+      "available": true
+  },
+  {
+      "title": "Rivages Oubliés",
+      "author": "Sophie Martin",
+      "description": "Un thriller sur une île mystérieuse.",
+      "isbn": "978-1122334455",
+      "language": "fr",
+      "category": "Thriller",
+      "available": false
+  },
+  {
+      "title": "Les Ombres de la Ville",
+      "author": "Nicolas Petit",
+      "description": "Les luttes de pouvoir dans une métropole.",
+      "isbn": "978-2233445566",
+      "language": "fr",
+      "category": "Fiction",
+      "available": true
+  },
+  {
+      "title": "Mémoires d'un Futur",
+      "author": "Élise Renaud",
+      "description": "Une dystopie sur l'avenir.",
+      "isbn": "978-3344556677",
+      "language": "fr",
+      "category": "Fantasy",
+      "available": false
+  }
+]

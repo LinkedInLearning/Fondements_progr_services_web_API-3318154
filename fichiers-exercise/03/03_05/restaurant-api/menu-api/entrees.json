@@ -1,0 +1,37 @@
+[
+    {
+      "id": "entrees-1",
+      "name": "Grilled Salmon",
+      "description": "Fresh salmon fillet seasoned and grilled to perfection, served with steamed vegetables and lemon herb sauce.",
+      "ingredients": ["Salmon Fillet", "Seasoning", "Steamed Vegetables", "Lemon Herb Sauce"],
+      "price": 18.99
+    },
+    {
+      "id": "entrees-2",
+      "name": "Chicken Alfredo",
+      "description": "Tender chicken breast slices served over fettuccine pasta with creamy Alfredo sauce.",
+      "ingredients": ["Chicken Breast", "Fettuccine Pasta", "Alfredo Sauce"],
+      "price": 15.49
+    },
+    {
+      "id": "entrees-3",
+      "name": "Vegetable Stir-Fry",
+      "description": "Assorted vegetables stir-fried in a savory sauce, served with steamed rice.",
+      "ingredients": ["Assorted Vegetables", "Stir-Fry Sauce", "Steamed Rice"],
+      "price": 13.99
+    },
+    {
+      "id": "entrees-4",
+      "name": "Beef Tenderloin Steak",
+      "description": "Juicy beef tenderloin steak cooked to your preferred temperature, served with garlic mashed potatoes and grilled asparagus.",
+      "ingredients": ["Beef Tenderloin Steak", "Garlic Mashed Potatoes", "Grilled Asparagus"],
+      "price": 24.99
+    },
+    {
+      "id": "entrees-5",
+      "name": "Penne Primavera",
+      "description": "Penne pasta tossed with a medley of fresh vegetables and a light garlic sauce.",
+      "ingredients": ["Penne Pasta", "Fresh Vegetables", "Garlic Sauce"],
+      "price": 14.49
+    }
+  ]

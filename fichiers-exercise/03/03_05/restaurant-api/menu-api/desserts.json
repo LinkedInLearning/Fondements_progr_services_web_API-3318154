@@ -1,0 +1,37 @@
+[
+    {
+      "id": "dessert-1",
+      "name": "Chocolate Lava Cake",
+      "description": "Warm and gooey chocolate cake with a molten chocolate center, served with a scoop of vanilla ice cream.",
+      "ingredients": ["Chocolate Cake", "Molten Chocolate", "Vanilla Ice Cream"],
+      "price": 7.99
+    },
+    {
+      "id": "dessert-2",
+      "name": "New York Cheesecake",
+      "description": "Classic New York-style cheesecake with a graham cracker crust and raspberry coulis.",
+      "ingredients": ["Cream Cheese", "Graham Cracker Crust", "Raspberry Coulis"],
+      "price": 8.49
+    },
+    {
+      "id": "dessert-3",
+      "name": "Tiramisu",
+      "description": "Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+      "ingredients": ["Ladyfingers", "Mascarpone Cheese", "Cocoa Powder"],
+      "price": 9.99
+    },
+    {
+      "id": "dessert-4",
+      "name": "Fruit Salad",
+      "description": "Fresh fruit salad with a variety of seasonal fruits and a honey-lime dressing.",
+      "ingredients": ["Assorted Fresh Fruits", "Honey-Lime Dressing"],
+      "price": 6.99
+    },
+    {
+      "id": "dessert-5",
+      "name": "Molten Caramel Pudding",
+      "description": "Warm caramel pudding with a molten caramel center, drizzled with caramel sauce.",
+      "ingredients": ["Caramel Pudding", "Caramel Sauce"],
+      "price": 7.49
+    }
+  ]
