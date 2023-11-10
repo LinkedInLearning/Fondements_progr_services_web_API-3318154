@@ -10,7 +10,7 @@ const desserts = require("./menu-api/desserts.json");
 const drinks = require("./menu-api/drinks.json");
 const PORT = process.env.PORT || 5000;
 
-const orders = [];
+let orders = [];
 app.use(express.json());
 app.use("/menu", router);
 
@@ -116,6 +116,6 @@ router.get("/orders", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server has started on port ${PORT}`);
   mongoose
-    .connect("mongodb://localhost:27017/orders", { useNewUrlParser: true })
+    .connect("mongodb+srv://sandy:test123@cluster0.4ihtptd.mongodb.net/?retryWrites=true&w=majority", { useNewUrlParser: true })
     .then(() => console.log("Connected to database!"));
 });
