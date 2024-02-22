@@ -1,9 +1,9 @@
-# Nom final de la formation
-Ce dossier Repository est lié au cours [Nom final de la formation][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
+# Les fondements de la programmation : Les services web et API
+Ce dossier Repository est lié au cours [Les fondements de la programmation : Les services web et API][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
 
 ![Nom final de la formation][lil-thumbnail-url]
 
-DESCRIPTION DE LA FORMATION
+Dans cette formation destinée aux développeurs et responsables de projets, Sandy Ludosky vous propose de créer des services web sécurisés. Après avoir abordé les principes de base, vous apprendrez à définir les objectifs, le public, les outils et les ressources. Vous découvrirez l'architecture REST, les tests avec Postman et des solutions pour les requêtes HTTP. Vous apprendrez à créer des services web sécurisés via SOAP, WSDL, les principes ACID et le protocole WSDL. Vous verrez comment personnaliser les requêtes avec GraphQL, et consommer avec GraphiQL. Enfin, vous apprendrez à sécuriser les services web avec les recommandations OWASP, les jetons d'accès JWT ou les clés API.
 
 ## Instructions
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse.
