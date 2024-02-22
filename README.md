@@ -27,7 +27,7 @@ La branche master correspond au code à la fin de la formation.
 
 **Sandy Ludosky**
 
- Retrouvez [Nom du formateur](https://www.linkedin.com/learning/instructors/) sur LinkedIn Learning.
+ Retrouvez [Sandy Ludosky](https://www.linkedin.com/learning/instructors/sandy-ludosky) sur LinkedIn Learning.
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/les-fondements-de-la-programmation-les-services-web-et-api
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGmgRCUWBNpUw/learning-public-crop_675_1200/0/1708589078403?e=2147483647&v=beta&t=f5fwTdC0ndLG8SgGRd-0xwhwHbh_G0rhrpmbpwpeVeU
