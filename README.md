@@ -14,15 +14,6 @@ La branche `02_03_d` correspond au code du début de la vidéo.
 La branche `02_03_f` correspond au code à la fin de la vidéo.
 La branche master correspond au code à la fin de la formation.
 
-## Installation
-    Pour utiliser ces fichiers d’exercice, vous avez besoin de :
-
-    [Liste des logiciels/dépendances utiles à la formation]
-
-    Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree.
-
-    [Instructions spécifiques au cours]
-
 ### Instructeur
 
 **Sandy Ludosky**
