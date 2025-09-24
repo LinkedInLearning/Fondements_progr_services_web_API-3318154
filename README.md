@@ -5,6 +5,8 @@ Ce dossier Repository est lié au cours [Les fondements de la programmation : Le
 
 Dans cette formation destinée aux développeurs et responsables de projets, Sandy Ludosky vous propose de créer des services web sécurisés. Après avoir abordé les principes de base, vous apprendrez à définir les objectifs, le public, les outils et les ressources. Vous découvrirez l'architecture REST, les tests avec Postman et des solutions pour les requêtes HTTP. Vous apprendrez à créer des services web sécurisés via SOAP, WSDL, les principes ACID et le protocole WSDL. Vous verrez comment personnaliser les requêtes avec GraphQL, et consommer avec GraphiQL. Enfin, vous apprendrez à sécuriser les services web avec les recommandations OWASP, les jetons d'accès JWT ou les clés API.
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Instructions
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse.
 
